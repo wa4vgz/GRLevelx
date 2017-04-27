@@ -1,0 +1,13 @@
+;
+; Show some DCARES Members QTH's at all zoom levels
+;
+Title: Davidson County ARES QTHs TEST
+
+Threshold: 999
+Color: 255 255 255
+ 
+Place: 36.16520, -86.66514, WA4VGZ Jim QTH
+Place: 36.022, -86.748, W8IFG Adam QTH
+Place: 36.126, -86.720, KM4JDM Ted QTH
+
+End:
