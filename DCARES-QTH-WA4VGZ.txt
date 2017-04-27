@@ -4,7 +4,7 @@
 ; This file and home2.png must be located within the same file directory unless a different file path is given for home2.png
 ; Edit the MOUSEOVER TEXT field to display what you want displayed in the mouse tip window
 ;
-: Credit to Adam DeLand W8IFG for the new Icon/Iconfile keywords.
+; Credit to Adam DeLand W8IFG for the new Icon/Iconfile keywords.
 
 ;RefreshSeconds: 15 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
 Refresh: 5
