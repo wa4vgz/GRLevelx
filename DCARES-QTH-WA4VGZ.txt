@@ -5,14 +5,14 @@ Show some DCARES Members QTH's at all zoom levels
 ;This file and home2.png must be located within the same file directory unless a different file path is given for home2.png
 ;Edit the MOUSEOVER TEXT field to display what you want displayed in the mouse tip window
 
-;RefreshSeconds: 1 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
+RefreshSeconds: 15 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
 Title: WA4VGZ Web version of Davidson County ARES QTHs
 
 
 Threshold: 999
 
 IconFile:  1, 15, 15, 7.5, 7.5, "https://github.com/wa4vgz/GRLevelx/blob/master/home2.png?raw=true"
-Icon:      36.02193, -86.7489, 360, 1, 1, "W8IFG QTH"
+Icon:      36.02193, -86.7489, 360, 1, 1, "W8IFG QTH xxx"
 Icon:      36.16520, -86.66514, 360, 1, 1, "WA4VGZ/W4CMG QTH\n Jim's cell/text: 860-748-9032\n email: wa4vgz@gmail.com\n Cathy's cell/text: 860-916-0151\n email: w4cmg.dx@gmail.com
 Icon:      36.126, -86.720, 360, 1, 1, "KM4JDM QTH"
 End:
