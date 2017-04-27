@@ -6,7 +6,7 @@ Show some DCARES Members QTH's at all zoom levels
 ;Edit the MOUSEOVER TEXT field to display what you want displayed in the mouse tip window
 
 ;RefreshSeconds: 1 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
-Title: WA4VGZ Web version of Davidson County ARES QTHs
+Title: WA4VGZ Web version 1 of Davidson County ARES QTHs
 
 
 Threshold: 999
