@@ -7,6 +7,7 @@
 ; Credit to Adam DeLand W8IFG for the new Icon/Iconfile keywords.
 ; changed refresh to 30 minutes 22-Feb-2019
 ; added Ted Pennington KM4JDM
+; KM4DTH changed to K4MJJ 21-Apr-2019
 
 ;RefreshSeconds: 15 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
 Refresh: 30
@@ -18,6 +19,6 @@ Threshold: 999
 IconFile:  1, 15, 15, 7.5, 7.5, "https://github.com/wa4vgz/GRLevelx/blob/master/home2.png?raw=true"
 Icon:      36.02193, -86.7489, 360, 1, 1, "W8IFG Adam QTH\n cell/text: 615-456-4359\n email: w8ifg@att.net"
 Icon:      36.16520, -86.66514, 360, 1, 1, "WA4VGZ/W4CMG Jim & Cathy QTH\n Jim's cell/text: 860-748-9032\n email: wa4vgz@gmail.com\n\n Cathy's cell/text: 860-916-0151\n email: w4cmg.dx@gmail.com
-Icon:      36.03198, -86.58119, 360, 1, 1, "KM4DTH Matt QTH\n cell/text: 615-838-2112\n email: mjjacobs42@outlook.com"
+Icon:      36.03198, -86.58119, 360, 1, 1, "K4MJJ Matt QTH\n cell/text: 615-838-2112\n email: mjjacobs42@outlook.com"
 Icon:      36.126889, -86.719717, 360, 1, 1, "KM4JDM Ted QTH\n email: km4jdm@gmail.com"
 End:
