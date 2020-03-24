@@ -1,5 +1,5 @@
 ; Show some DCARES Members QTH's at all zoom levels
-; Version 27-Apr-2017
+; Version 24-Mar-2020
 ; Edit the 'Title:' line to display what you want in the placefile manager window
 ; This file and home2.png must be located within the same file directory unless a different file path is given for home2.png
 ; Edit the MOUSEOVER TEXT field to display what you want displayed in the mouse tip window
@@ -8,10 +8,11 @@
 ; changed refresh to 30 minutes 22-Feb-2019
 ; added Ted Pennington KM4JDM
 ; KM4DTH changed to K4MJJ 21-Apr-2019
+; added Lee KK4SSX and Daniel W4WWF
 
 ;RefreshSeconds: 15 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
 Refresh: 30
-Title: WA4VGZ 21-Apr-2019 Web version of Davidson County ARES QTHs
+Title: WA4VGZ 24-Mar-2020 Web version of Davidson County ARES QTHs
 
 
 Threshold: 999
@@ -21,4 +22,6 @@ Icon:      36.02193, -86.7489, 360, 1, 1, "W8IFG Adam QTH\n cell/text: 615-456-4
 Icon:      36.16520, -86.66514, 360, 1, 1, "WA4VGZ/W4CMG Jim & Cathy QTH\n Jim's cell/text: 860-748-9032\n email: wa4vgz@gmail.com\n\n Cathy's cell/text: 860-916-0151\n email: w4cmg.dx@gmail.com
 Icon:      36.03198, -86.58119, 360, 1, 1, "K4MJJ Matt QTH\n cell/text: 615-838-2112\n email: mjjacobs42@outlook.com"
 Icon:      36.126889, -86.719717, 360, 1, 1, "KM4JDM Ted QTH\n email: km4jdm@gmail.com"
+Icon:      36.205223, -86.603543, 360, 1, 1, "KK4SXX Lee QTH\n cell/text: 615-257-0383\n email: lee.alder@gmail.com"
+Icon:      36.233842, -86.697393, 360, 1, 1, "W4WWF Daniel QTH\n cell/text: \n email: "
 End:
