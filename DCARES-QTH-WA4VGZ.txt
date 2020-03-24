@@ -10,7 +10,7 @@
 ; KM4DTH changed to K4MJJ 21-Apr-2019
 ; added Lee KK4SSX and Dan W4WWF
 ; removed Ted KM4JMD Icon:      36.126889, -86.719717, 360, 1, 1, "KM4JDM Ted QTH\n email: km4jdm@gmail.com"
-
+;
 ;RefreshSeconds: 15 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
 Refresh: 30
 Title: WA4VGZ 24-Mar-2020 Web version of Davidson County ARES QTHs
