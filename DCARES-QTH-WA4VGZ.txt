@@ -9,7 +9,8 @@
 ; added Ted Pennington KM4JDM
 ; KM4DTH changed to K4MJJ 21-Apr-2019
 ; added Lee KK4SSX and Dan W4WWF
-; removed Ted KM4JMD Icon:      36.126889, -86.719717, 360, 1, 1, "KM4JDM Ted QTH\n email: km4jdm@gmail.com"
+; removed Ted KM4JDM
+; readded Ted KM4JDM 
 ; changed Refresh to 60 minutes
 ;
 ;RefreshSeconds: 15 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
@@ -25,4 +26,5 @@ Icon:      36.16520, -86.66514, 360, 1, 1, "WA4VGZ/W4CMG Jim & Cathy QTH\n Jim's
 Icon:      36.03198, -86.58119, 360, 1, 1, "K4MJJ Matt QTH\n cell/text: 615-838-2112\n email: mjjacobs42@outlook.com"
 Icon:      36.205223, -86.603543, 360, 1, 1, "KK4SXX Lee QTH\n cell/text: 615-257-0383\n email: lee.alder@gmail.com"
 Icon:      36.233842, -86.697393, 360, 1, 1, "W4WWF Dan QTH\n cell/text: 615-456-4704\n email: dan.sigmund@outlook.com"
+Icon:      36.126889, -86.719717, 360, 1, 1, "KM4JDM Ted QTH\n email: km4jdm@gmail.com"
 End:
