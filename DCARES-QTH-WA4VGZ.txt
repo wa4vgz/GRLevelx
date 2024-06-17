@@ -24,7 +24,7 @@ IconFile:  1, 15, 15, 7.5, 7.5, "https://github.com/wa4vgz/GRLevelx/blob/master/
 Icon:      36.02193, -86.7489, 360, 1, 1, "W8IFG Adam QTH\n cell/text: 615-456-4359\n email: w8ifg@att.net"
 Icon:      36.16520, -86.66514, 360, 1, 1, "WA4VGZ/W4CMG Jim & Cathy QTH\n Jim's cell/text: 860-748-9032\n email: wa4vgz@gmail.com\n\n Cathy's cell/text: 860-916-0151\n email: w4cmg.dx@gmail.com
 Icon:      36.03198, -86.58119, 360, 1, 1, "K4MJJ Matt QTH\n cell/text: 615-838-2112\n email: mjjacobs42@outlook.com"
-Icon:      36.205223, -86.603543, 360, 1, 1, "KK4SXX Lee QTH\n cell/text: 615-257-0383\n email: lee.alder@gmail.com"
+Icon:      36.205223, -86.603543, 360, 1, 1, "KK4SXX Lee QTH SK now\n cell/text: 615-257-0383\n email: lee.alder@gmail.com"
 Icon:      36.233842, -86.697393, 360, 1, 1, "W4WWF Dan QTH\n cell/text: 615-456-4704\n email: dan.sigmund@outlook.com"
 Icon:      36.126889, -86.719717, 360, 1, 1, "KM4JDM Ted QTH\n email: km4jdm@gmail.com"
 End:
