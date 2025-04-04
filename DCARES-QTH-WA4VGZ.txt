@@ -16,7 +16,7 @@
 ;
 ;RefreshSeconds: 15 (un-comment this line for immediate updating while fine tuning coordinates, but only while editing)
 Refresh: 60
-Title: WA4VGZ 16-Jun-2024 Web version of Davidson County ARES QTHs
+Title: WA4VGZ 04-Apr-2025 Web version of Davidson County ARES QTHs
 
 
 Threshold: 999
